@@ -4,4 +4,4 @@ Home Page
 All Product Page
 ![](screenshout/2.png)
 Product Details Page
-![](screenshout/2.png)
+![](screenshout/3.png)
